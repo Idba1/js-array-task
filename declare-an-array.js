@@ -8,11 +8,9 @@
 
 
 
-var fruits = ['mango', 'banana', 'apple', 'orange', 'graph'];
+let fruits = ['mango', 'banana', 'apple', 'orange', 'graph'];
 console.log(fruits[3]);
 
-// newFruits = fruits[4];
-// console.log(newFruits);
 
 fruits[2] = 'jambura';
 // console.log(fruits[2]);
